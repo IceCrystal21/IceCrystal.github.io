@@ -12,4 +12,4 @@ Examples of how to use the project.
 
 ### Authors
 
-Faraan Baig and Serenity Singh.
+Faraan Baig, Serenity Singh, and Mark Onyshchenko.
