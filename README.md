@@ -1,4 +1,4 @@
-# Project Title
+# File Extension Organizer
 
 A short description of what this project is and who it's for.
 
