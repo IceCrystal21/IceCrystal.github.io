@@ -1,1 +1,1 @@
-#Feature2: Recurseivly search folders for specified file types By Faraan
+#Feature2: Search specified folder for all file types By Faraan
